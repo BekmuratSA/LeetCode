@@ -1,1 +1,1 @@
-# LeetCode
+https://leetcode.com/bekmuratsatyboldiev98/
